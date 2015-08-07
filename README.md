@@ -1,2 +1,1 @@
-efecto_mascara
-simple jQuery effect
+Simple jQuery effect
