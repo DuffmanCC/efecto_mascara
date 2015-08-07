@@ -1,0 +1,45 @@
+
+* {
+	font-family: sans-serif;
+}
+
+.tapa {
+	position: absolute;
+	top:0px;
+	left:0px;
+
+	display: block;
+	background-color: rgba(0, 0, 0, .6);
+	height: 240px;
+
+	color: #fff;
+	text-align: center;
+	visibility: hidden;
+	
+}
+
+.vertical{
+	width: 180px;
+}
+
+.apaisada{
+	width: 320px;
+}
+
+.animals{
+	position: relative;
+	display: block;
+	float: left;
+	margin:0px;
+	overflow: hidden;
+	height: 240px;
+}
+
+.principal {
+	margin:50px auto;
+	width: 840px;
+}
+
+.borde{
+	background-color: grey;
+}
